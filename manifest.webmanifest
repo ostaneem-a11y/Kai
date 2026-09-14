@@ -1,0 +1,9 @@
+{
+  "name": "Kai V1 Voice Assistant",
+  "short_name": "Kai",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080b14",
+  "theme_color": "#0b1020",
+  "description": "Kai V1 voice assistant prototype"
+}
